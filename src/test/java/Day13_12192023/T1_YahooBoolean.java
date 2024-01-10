@@ -32,4 +32,5 @@ public class T1_YahooBoolean extends TestParent {
         Assert.assertFalse(isStaySignedInChecked);
     }
 //test
+    //test 2
 }
